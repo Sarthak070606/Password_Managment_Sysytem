@@ -18,5 +18,5 @@ Encryption: Cryptography (Fernet)
 Hashing: bcrypt
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/password-manager.git
+[git clone https://github.com/<your-username>/password-manager.git](https://github.com/Sarthak070606/Password-Manager-System.git)
 cd password-manager
