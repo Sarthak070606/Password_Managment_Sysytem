@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.conda/
+*.env
+
+# VS Code and other IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit specific cache
+.streamlit/
+.stcache/
+.stcache2/
+.stdata/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# MySQL or database files (if exported locally)
+*.sql
+*.db
+
+# Sensitive files
+config.json
+secrets.json
+.env
+*.pem
+*.key
+
+# Python package build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Image cache or test assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+!imp.png  # Keep your app icon in Git
+
+# OS temporary files
+*.swp
+*.swo
