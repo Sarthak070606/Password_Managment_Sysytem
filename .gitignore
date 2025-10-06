@@ -9,6 +9,7 @@ env/
 .venv/
 .conda/
 *.env
+.env
 
 # VS Code and other IDE settings
 .vscode/
